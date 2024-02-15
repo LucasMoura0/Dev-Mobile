@@ -16,7 +16,7 @@
 
 <h4>Código Kotlin</h4>
 <p>
-    Com base no site Jetbrains, foi criado uma aplicação em que o código pergunta seu nome, o armazena como variável, processa e te cumprimenta falando o seu nome. Esse código está localizado na pasta src> main> kotlin> Main.kt.
+    Com base no site Jetbrains, foi criado uma aplicação em que o código pergunta seu nome, o armazena como variável, processa e te cumprimenta falando o seu nome ('Olá, nome!'). Esse código está localizado na pasta src> main> kotlin> Main.kt.
     Além disso, o foi empacotado como um arquivo jar. O código está na aba 'build.gradle.kts' a partir da linha 23
 </p>
 
